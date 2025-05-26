@@ -24,7 +24,7 @@
 
 ## 🚀 How to Run
 
-```bas
+```bash
 # Clone or move into your project folder
 cd path/to/your/folder
 
