@@ -25,7 +25,7 @@
 ## 🚀 How to Run
 
 ```bash
-# Clone or move into your project folder
+# Clone or move into your project folde
 cd path/to/your/folder
 
 # Create and activate virtual environment
