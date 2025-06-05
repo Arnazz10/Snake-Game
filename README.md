@@ -6,7 +6,7 @@
 
 ## 🎮 Features
 
-- Smooth graphics with Pygam
+- Smooth graphics with Pygame
 - Arrow key controls
 - Score tracking
 - Food randomly spawns
