@@ -8,7 +8,7 @@
 
 - Smooth graphics with Pygame
 - Arrow key controls
-- Score trackin
+- Score tracking
 - Food randomly spawns
 - Game-over on collision
 - Clean, animated visuals
