@@ -1,6 +1,6 @@
 # 🐍 Snake Game (Python + Pygame)
 
- A classic Snake game implemented using Python and Pygame. Navigate the snake using arrow keys, eat food to grow, and avoid colliding with the walls or yourself. Simple, clean, and fun!
+ A classic Snake game implemented using Python and Pygame. Navigate the snake using arrow keys, eat food to grow, and avoid colliding with the walls or yourself. Simple, clean, and fu
 
 ---
 
